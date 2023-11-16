@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanayraj2603
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning differnt aspects of Data Analysis like SQL, MySQL, Tableau, Power BI, DAX
+- 🌱 I’m currently learning differnt skills like Python, SQL, Tableau, Power BI, DAX and much more!
 
 <!---
 tanayraj2603/tanayraj2603 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
